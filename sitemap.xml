@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://holmgr.github.io/blog/hello-world/</loc>
+            
+                <lastmod>2019-02-27</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc>https://holmgr.github.io/blog/</loc>
+        </url>
+    
+    
+        
+        <url>
+            <loc>https://holmgr.github.io/blog/categories/</loc>
+        </url>
+        
+        <url>
+            <loc>https://holmgr.github.io/blog/categories/hello-world/</loc>
+        </url>
+        
+    
+</urlset>
