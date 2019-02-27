@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://holmgr.github.io/blog"
+base_url = "https://holmgr.github.io/blog"
 title = "Prospero Dev Blog"
 
 # Whether to automatically compile all Sass files in the sass directory
